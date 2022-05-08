@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Scott Lindsay my username is @SDL101
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning anything I can about software engineering, mainly in Python, JavaScript, Ruby, and C++
+- 🌱 I’m currently learning anything I can about software engineering, mainly in Python, JavaScript, and C++
 - 💞️ I’m looking to collaborate on anything impactful and challenging
 - 📫 How to reach me - scottdaniellindsay@gmail.com
 
